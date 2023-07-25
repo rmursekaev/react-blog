@@ -21,26 +21,14 @@
     {
       "id": 4,
       "title": "Testing a 4th post",
-      "datetime": "August 02, 2021 11:46:27 AM",
+      "datetime": "July 18, 2023 2:27:41 AM",
       "body": "Some more testing paragraphs!"
     },
     {
       "id": 5,
       "title": "Test Post 5",
-      "datetime": "July 17, 2023 9:50:11 AM",
-      "body": "Here it is"
-    },
-    {
-      "id": 6,
-      "title": "Test 6",
-      "datetime": "July 17, 2023 9:50:56 AM",
-      "body": "Checking"
-    },
-    {
-      "id": 7,
-      "title": "Test 7 ",
-      "datetime": "July 17, 2023 9:52:32 AM",
-      "body": "Testing"
+      "datetime": "July 18, 2023 2:28:31 AM",
+      "body": "Some text here!"
     }
   ]
 }
