@@ -144,6 +144,12 @@ body {
   border-bottom: 1px solid lightgray;
 }
 
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .Home .post a {
   text-decoration: none;
 }
