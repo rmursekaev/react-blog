@@ -71,3 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### To run local server to use DB run this command
 npx json-server -p 3500 -w data/db.json
+
+### Check out this app live here:
+https://react-blog-three-roan.vercel.app/
