@@ -11,7 +11,7 @@ export const DataProvider = ({ children }) => {
   const { width } = useWindowSize();
 
   const { data, fetchError, isLoading } = useAxiosFetch(
-    "http://localhost:3500/posts"
+    "https://react-blog-three-roan.vercel.app/posts"
   );
 
   // Fetch Data

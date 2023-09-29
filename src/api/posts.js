@@ -1,5 +1,5 @@
 import axios from 'axios';
 
 export default axios.create({
-  baseURL: 'http://localhost:3500'
+  baseURL: 'https://react-blog-three-roan.vercel.app/'
 });
